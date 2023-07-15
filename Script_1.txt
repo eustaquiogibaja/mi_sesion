@@ -1,0 +1,5 @@
+inicio
+<Obtener datos Tinda_1>
+<Limpiar dato>
+<Alojar Datos en BD externa>
+fin
